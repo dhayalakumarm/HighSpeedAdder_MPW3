@@ -7,6 +7,8 @@ This projects aims to design an high speed adder based on recursive doubling tec
     
  ## Block Diagram
  
+ 
+ 
  ## EDA Tools and Environment
  
  ## Pre-Synthesis Simulation
